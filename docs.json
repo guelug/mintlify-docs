@@ -11,20 +11,62 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guía de Usuario",
+        "tab": "Manual de Usuario",
         "groups": [
           {
-            "group": "Inicio",
+            "group": "Bienvenida",
             "pages": [
               "index",
-              "essentials/flujo-trabajo"
+              "inicio-rapido"
             ]
           },
           {
-            "group": "Herramientas de IA",
+            "group": "Perfiles de Redacción",
             "pages": [
-              "ai-tools/perfiles",
-              "ai-tools/herramientas"
+              "perfiles/institucional",
+              "perfiles/bienestar",
+              "perfiles/redes-sociales",
+              "perfiles/expertos"
+            ]
+          },
+          {
+            "group": "Herramientas de Contenido",
+            "pages": [
+              "herramientas/buscador-topicos",
+              "herramientas/editor-ia",
+              "herramientas/seo-tiempo-real",
+              "herramientas/traduccion"
+            ]
+          },
+          {
+            "group": "Multimedia y Archivos",
+            "pages": [
+              "multimedia/noticias-pdf-video",
+              "multimedia/generador-imagenes",
+              "multimedia/edicion-visual"
+            ]
+          },
+          {
+            "group": "Estudio de Diseño y Audio",
+            "pages": [
+              "diseno/estudio-voz",
+              "diseno/scripts-video",
+              "diseno/video-lab",
+              "diseno/corrector-estilo"
+            ]
+          },
+          {
+            "group": "Publicación y Exportación",
+            "pages": [
+              "publicacion/wordpress",
+              "publicacion/descarga-drive"
+            ]
+          },
+          {
+            "group": "Configuración",
+            "pages": [
+              "configuracion/claves-api",
+              "configuracion/sesion"
             ]
           }
         ]
