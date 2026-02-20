@@ -54,7 +54,8 @@
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/guelug/noticias-funiber"
+      "github": "https://github.com/guelug/noticias-funiber",
+      "x": "https://x.com/funiber"
     }
   }
 }
